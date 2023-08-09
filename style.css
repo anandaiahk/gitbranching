@@ -11,7 +11,7 @@ div{
 }
 a{
     font-size: 35px;
-    text-decoration: none;
+    font-style: italic;
     font-weight: 500;
-    color: white;
+    color: green;
 }
